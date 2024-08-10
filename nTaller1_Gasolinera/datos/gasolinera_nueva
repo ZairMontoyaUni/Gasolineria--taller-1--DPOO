@@ -1,0 +1,13 @@
+tipo:E10:18000:8000.0
+tipo:Regular:12000:2000.0
+tipo:Premium:15000:5000.0
+tipo:aviación:20000:1000.0
+surtidor:JOHN:E10:0.0:Regular:0.0:Premium:0.0:aviación:0.0
+surtidor:SAMUEL:E10:0.0:Regular:0.0:Premium:0.0:aviación:0.0
+surtidor:JOHN:E10:0.0:Regular:0.0:Premium:0.0:aviación:0.0
+surtidor:DIEGO:E10:0.0:Regular:0.0:Premium:0.0:aviación:0.0
+empleado:MIKE:0
+empleado:SAMUEL:0
+empleado:DIEGO:0
+empleado:JOHN:0
+empleado:ZAIR:0
